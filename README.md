@@ -6,4 +6,9 @@ Featured in my template code based on C++ such as :
 - AVL Tree
 - Calculate Prefix in KMP
 - KMP
-- [ still on progress ]
+- [still on progress]
+
+# Sorting
+- Bubble Sort
+- Selection Sort
+- [still on progress]
