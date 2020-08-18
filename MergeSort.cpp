@@ -51,7 +51,7 @@ int main() {
 	}
 	
 	int left = 0;
-	int right = len;
+	int right = len - 1;
 	
 	//Starting merge
 	mergeSort(left, right, arr);
