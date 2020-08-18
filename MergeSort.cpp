@@ -38,7 +38,7 @@ void mergeSort(int left, int right, int *arr) {
 		startRight++; temp++;
 	}
 	
-	for(int i = 0; i < temp ; i++) {
+	for(int i = left; i < temp ; i++) {
 		arr[i] = arrTemp[i];
 	}
 }
