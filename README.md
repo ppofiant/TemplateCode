@@ -13,4 +13,5 @@ Featured in my template code based on C++ such as :
 # Sorting
 - Bubble Sort
 - Selection Sort
+- Merge Sort
 - [still on progress]
