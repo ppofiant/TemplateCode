@@ -12,6 +12,7 @@ Featured in my template code based on C++ such as :
 
 # Sorting
 - Bubble Sort
+- Bubble Flag
 - Selection Sort
 - Merge Sort
 - [still on progress]
