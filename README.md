@@ -8,6 +8,7 @@ Featured in my template code based on C++ such as :
 - Calculate Prefix in KMP
 - KMP
 - map
+- Fractional Knapsack
 - [still on progress]
 
 # Sorting
