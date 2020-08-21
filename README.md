@@ -9,6 +9,7 @@ Featured in my template code based on C++ such as :
 - KMP
 - map
 - Fractional Knapsack
+- LIS & LCS
 - [still on progress]
 
 # Sorting
