@@ -18,3 +18,8 @@ Featured in my template code based on C++ such as :
 - Selection Sort
 - Merge Sort
 - [still on progress]
+
+# Ordering Traversal
+- In Order Traversal (Iterative)
+- Pre Order Traversal (Iterative)
+- Post Order Traversal (Iterative)
