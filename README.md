@@ -23,3 +23,9 @@ Featured in my template code based on C++ such as :
 - In Order Traversal (Iterative)
 - Pre Order Traversal (Iterative)
 - Post Order Traversal (Iterative)
+
+# Otherwise
+- Queue -> library : #include <queue>;
+- Stack -> library : #include <stack>;
+- Pair -> library : namespace std;
+- Vector -> library : #include <vector>;
