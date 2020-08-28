@@ -25,7 +25,7 @@ Featured in my template code based on C++ such as :
 - Post Order Traversal (Iterative)
 
 # Otherwise
-- Queue -> library : #include <queue>;
-- Stack -> library : #include <stack>;
-- Pair -> library : namespace std;
-- Vector -> library : #include <vector>;
+- Queue
+- Stack
+- Pair
+- Vector
